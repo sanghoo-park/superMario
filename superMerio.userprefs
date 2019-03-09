@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player.cs">
+    <Files>
+      <File FileName="Assets/Script/FireBall.cs" Line="56" Column="5" />
+      <File FileName="Assets/Script/GameMenneger.cs" Line="122" Column="2" />
+      <File FileName="Assets/Script/Player.cs" Line="128" Column="4" />
+      <File FileName="Assets/Script/EHitEngin.cs" Line="28" Column="40" />
+      <File FileName="Assets/Script/EnermyDieMotion.cs" Line="25" Column="32" />
+      <File FileName="Assets/Script/PipeEnermyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/TK2DROOT/tk2d/Code/Sprites/tk2dSpriteAnimator.cs" Line="315" Column="1" />
+      <File FileName="Assets/Script/CoinMotion.cs" Line="50" Column="26" />
+      <File FileName="Assets/Script/GameData.cs" Line="12" Column="1" />
+      <File FileName="Assets/Script/Life.cs" Line="20" Column="3" />
+      <File FileName="Assets/Script/EMoveEngin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/StartMenneger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TimerDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TotalPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/BoxCoin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameTime.cs" Line="16" Column="3" />
+      <File FileName="Assets/Script/BlockBump.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Point.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
